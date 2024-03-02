@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T02:44:18.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="NDhoyRhYwhhJ0yhnkvr9" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-02T02:48:40.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="T2qyz23Vl61oiKiwnKuj" version="24.0.0" type="github">
   <diagram name="Page-1" id="79oRfjms0OCHbmcxYFP_">
-    <mxGraphModel dx="1066" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1254" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="weETAlONGDyQjFe2pRTI-2" value="Penjual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="weETAlONGDyQjFe2pRTI-5" value="&lt;div&gt;Pembeli&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="weETAlONGDyQjFe2pRTI-6" value="ID Penjual" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="117.5" y="340" width="75" height="50" as="geometry" />
@@ -87,6 +84,45 @@
         </mxCell>
         <mxCell id="weETAlONGDyQjFe2pRTI-46" value="Kode Produk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="255" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-48" value="Penjual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-49" value="ID &lt;br&gt;Customer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="340" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-50" value="Nama Pembeli" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="817.5" y="340" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-51" value="Alamat Pembeli" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;curved=0;" edge="1" parent="1" source="weETAlONGDyQjFe2pRTI-53" target="weETAlONGDyQjFe2pRTI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-53" value="Provinsi&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Alamat%20Penjual%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2242.5%22%20y%3D%22255%22%20width%3D%2275%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-54" value="KAB Kota" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="170" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-55" value="KODE Pos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="817.5" y="170" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=0;" edge="1" parent="1" source="weETAlONGDyQjFe2pRTI-51" target="weETAlONGDyQjFe2pRTI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.392;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=0;" edge="1" parent="1" source="weETAlONGDyQjFe2pRTI-54" target="weETAlONGDyQjFe2pRTI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=0;" edge="1" parent="1" source="weETAlONGDyQjFe2pRTI-55" target="weETAlONGDyQjFe2pRTI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.592;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=0;" edge="1" parent="1" source="weETAlONGDyQjFe2pRTI-50" target="weETAlONGDyQjFe2pRTI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="weETAlONGDyQjFe2pRTI-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.417;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=0;" edge="1" parent="1" source="weETAlONGDyQjFe2pRTI-49" target="weETAlONGDyQjFe2pRTI-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
