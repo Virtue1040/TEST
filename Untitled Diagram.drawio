@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T02:48:40.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="T2qyz23Vl61oiKiwnKuj" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-02T02:51:23.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="DbTfaMskTlMG95fZtsej" version="24.0.0" type="github">
   <diagram name="Page-1" id="79oRfjms0OCHbmcxYFP_">
     <mxGraphModel dx="1254" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="weETAlONGDyQjFe2pRTI-46" value="Kode Produk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="255" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="weETAlONGDyQjFe2pRTI-48" value="Penjual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="weETAlONGDyQjFe2pRTI-48" value="Pembeli" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="weETAlONGDyQjFe2pRTI-49" value="ID &lt;br&gt;Customer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
